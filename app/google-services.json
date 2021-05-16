@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472800914596",
+    "project_id": "soruapp-1d4ac",
+    "storage_bucket": "soruapp-1d4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472800914596:android:21e7ad66028d40b7f8ca31",
+        "android_client_info": {
+          "package_name": "com.example.odev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472800914596-m8dv18fe3tl3lrsgvl05nokj5rclbpkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4XDwfpkuGnmZGarnptRtqOIg2Aeo6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472800914596-m8dv18fe3tl3lrsgvl05nokj5rclbpkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
